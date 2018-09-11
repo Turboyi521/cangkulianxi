@@ -8,9 +8,22 @@ git branch
 git add *
 git commit -m '1'
 git branch dev
+<<<<<<< HEAD
+推送分支到远程
+切换到主分支-新建分支-git push origin 新的分支
+比较分支
+显示所有差异文件的详细差异
+git diff dev master
+显示所有差异文件的列表
+git diff dev master --stat
+冲突
+主分支
+分支
+=======
 
 
 
 
 
 
+>>>>>>> dev
