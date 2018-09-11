@@ -16,4 +16,4 @@
 
     git pull origin master
 6、新来的同事
-    --git clone 网址
+    --git clone 网址11111
