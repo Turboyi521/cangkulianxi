@@ -3,7 +3,13 @@ git branch dev
 git checkout dev
 删除dev
 git checkout master
-git branch -d dev
+git branch -D dev
+
 git branch
+git add *
+git commit -m '1'
+git branch dev
+
+
 
 
