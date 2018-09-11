@@ -15,3 +15,5 @@
 5、远程有更新，拉取到本地
 
     git pull origin master
+6、新来的同事
+    --git clone 网址
