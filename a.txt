@@ -1,55 +1,6 @@
 11111111111111111
-22222222222222222222222222
-111111111111111111111111111
-222222222222222222222222
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
-xxxxxxxxxxxxxxxxxxxxxx
-
-333333333333333333333
-                          ccccccccccccccccccccccccccccccccccccc
-
-ccccccccccccccccccccccccccccccccccccc
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-nnnnnn
-=======
-mmmm
->>>>>>> dev
-20202020020202002200202
-=======
->>>>>>> dev
+22
 
 
 
 
-
-<<<<<<< HEAD
-=======
-2222222222
->>>>>>> dev
-
-
-
-
-<<<<<<< HEAD
-222
-=======
-
-
-
-
-
-111
->>>>>>> dev
-
-
-
-<<<<<<< HEAD
-
-51
-=======
-50
->>>>>>> dev
