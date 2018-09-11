@@ -12,3 +12,6 @@
     git add *
     git commit -m "init"
     git push origin master
+5、远程有更新，拉取到本地
+
+    git pull origin master
